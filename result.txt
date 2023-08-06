@@ -1,4 +1,4 @@
-*This file is the result of parsing the content of every airdrop on https://coinmooner.com/airdrops and then (poorly) attempting to filter out the junk from the legit airdrops. Expect many good airdrops did not get included and many junk airdrops snuck by.*
+*This file is the result of parsing the content of every airdrop on https://coinmooner.com/airdrops and then (poorly) attempting to filter out the junk from the legit airdrops. Expect many good airdrops did not get included and many junk airdrops snuck by.* 
 
 Prepare to be amazed as Oracle Meta Technologies unveils the world's first crypto wallet with integrated Artificial Intelligence.
 To celebrate the launch of the OMT wallet on the main network, they are hosting a massive Airdrop giving you the chance to claim your share of 5,500,000 $OMT tokens, worth approximately $44,550 in value. Don't let this extraordinary opportunity pass you by!
